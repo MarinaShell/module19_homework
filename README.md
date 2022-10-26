@@ -1,4 +1,4 @@
-## LandingPage
+## module19_homework
 ## Description
 
 Выполнение заданий для 19 модуля ООП в JS
